@@ -25,6 +25,6 @@ password_strength
 
 ### 参考
 
-qmaterialwidget项目地址：https://github.com/zhiyiYo/QMaterialWidgets
+- 本项目使用第三方组件qmaterialwidget开发，项目地址：https://github.com/zhiyiYo/QMaterialWidgets
 
-pyside6官方文档
+- pyside6官方文档
