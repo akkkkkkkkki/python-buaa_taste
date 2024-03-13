@@ -1,0 +1,77 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="avatars">
+        <file alias="1.png">avatars/1.png</file>
+        <file alias="2.png">avatars/2.png</file>
+        <file alias="3.png">avatars/3.png</file>
+        <file alias="4.png">avatars/4.png</file>
+        <file alias="5.png">avatars/5.png</file>
+        <file alias="6.png">avatars/6.png</file>
+        <file alias="7.png">avatars/7.png</file>
+        <file alias="8.png">avatars/8.png</file>
+        <file alias="9.png">avatars/9.png</file>
+        <file alias="10.png">avatars/10.png</file>
+        <file alias="11.png">avatars/11.png</file>
+        <file alias="12.png">avatars/12.png</file>
+        <file alias="13.png">avatars/13.png</file>
+        <file alias="14.png">avatars/14.png</file>
+        <file alias="15.png">avatars/15.png</file>
+        <file alias="16.png">avatars/16.png</file>
+        <file alias="17.png">avatars/17.png</file>
+        <file alias="18.png">avatars/18.png</file>
+        <file alias="19.png">avatars/19.png</file>
+        <file alias="20.png">avatars/20.png</file>
+        <file alias="21.png">avatars/21.png</file>
+        <file alias="22.png">avatars/22.png</file>
+        <file alias="23.png">avatars/23.png</file>
+        <file alias="24.png">avatars/24.png</file>
+        <file alias="25.png">avatars/25.png</file>
+        <file alias="26.png">avatars/26.png</file>
+        <file alias="27.png">avatars/27.png</file>
+        <file alias="28.png">avatars/28.png</file>
+        <file alias="29.png">avatars/29.png</file>
+    </qresource>
+    <qresource prefix="images">
+        <file alias="gongbaojiding">images/gongbaojiding.jpeg</file>
+        <file alias="cake">images/cake.jpeg</file>
+        <file alias="hamburger">images/hamburger.jpeg</file>
+        <file alias="noodle">images/noodle.jpeg</file>
+        <file alias="icecream">images/icecream.jpeg</file>
+        <file alias="steak">images/steak.jpeg</file>
+        <file alias="vegetable">images/vegetable.jpeg</file>
+    </qresource>
+    <qresource prefix="icons">
+        <file alias="star0">icons/star0.png</file>
+        <file alias="star10">icons/star10.png</file>
+        <file alias="star20">icons/star20.png</file>
+        <file alias="star30">icons/star30.png</file>
+        <file alias="star40">icons/star40.png</file>
+        <file alias="star50">icons/star50.png</file>
+        <file alias="star60">icons/star60.png</file>
+        <file alias="star70">icons/star70.png</file>
+        <file alias="star80">icons/star80.png</file>
+        <file alias="star90">icons/star90.png</file>
+        <file alias="star100">icons/star100.png</file>
+        <file alias="addeat">icons/addeat.png</file>
+        <file alias="eaten">icons/eaten.png</file>
+        <file alias="editable">icons/editable.png</file>
+        <file alias="forsearch">icons/forsearch.png</file>
+        <file alias="headdefault">icons/headdefault.png</file>
+        <file alias="passwordhid">icons/passwordhid.png</file>
+        <file alias="passwordshowed">icons/passwordshowed.png</file>
+        <file alias="white_logo">logos/white.png</file>
+        <file alias="black_logo">logos/black.png</file>
+        <file alias="logo">logos/logo.png</file>
+        <file alias="Like_white.svg">icons/Like_white.svg</file>
+        <file alias="Like_black.svg">icons/Like_black.svg</file>
+        <file alias="Dislike_white.svg">icons/Dislike_white.svg</file>
+        <file alias="Dislike_black.svg">icons/Dislike_black.svg</file>
+        <file alias="Eye_white.svg">icons/Eye_white.svg</file>
+        <file alias="Eye_black.svg">icons/Eye_black.svg</file>
+        <file alias="EyeOff_white.svg">icons/EyeOff_white.svg</file>
+        <file alias="EyeOff_black.svg">icons/EyeOff_black.svg</file>
+    </qresource>
+    <qresource>
+        <file>style.qss</file>
+    </qresource>
+</RCC>

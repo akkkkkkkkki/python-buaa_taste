@@ -1,0 +1,70 @@
+* {
+  font-family: Microsoft YaHei, sans-serif;
+}
+
+QWidget {
+  background-color: none;
+}
+
+#main_title{
+  font-size: 24pt;
+  font-weight: bold;
+  color: #000000;
+  text-align: center;
+  margin: 20pt 0;
+}
+
+#label {
+  font-size: 13pt;
+  color: #000000;
+  text-align: center;
+}
+
+#edit {
+  background-color: #FFFFFF;
+  border: none;
+  border-radius: 15px;
+  padding: 4pt;
+  min-height: 40px;
+  min-width: 200px;
+}
+
+#alert {
+  font-size: 10pt;
+  color: #000000;
+  margin-top: 4pt;
+}
+
+QPushButton {
+  background-color: #ffffff;
+  color: #000000;
+  /* padding: 8pt 8pt 8pt 8pt; */
+  border: 1px solid black;
+  border-radius: 16px;
+  min-height: 38px;
+  min-width: 60px;
+  font-weight: bold;
+}
+
+QPushButton:hover {
+  background-color: #ebebeb;
+}
+
+QPushButton:pressed {
+  background-color: #cacaca;
+}
+#card {
+    background-color: #F4F4F4;
+    min-height: 260px;
+    min-width: 400px;
+    border-radius: 30px;
+}
+.QScrollArea{
+  background-color: #000000;
+}
+.QScrollBar:vertical {
+    background-color: #F0F0F0;
+}
+.QScrollBar::handle:vertical {
+    background-color: #C0C0C0;
+}
